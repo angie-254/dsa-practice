@@ -1,2 +1,3 @@
 ﻿# My Project
-This repository contains leetcode
+This repository contains leetcode solutions
+
